@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBaeltBilletLibrary", "StoreBaeltBilletLibrary\StoreBaeltBilletLibrary.csproj", "{DD0F8006-1A7E-4ADC-8856-81797165059F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBaeltBilletLibraryTests", "StoreBaeltBilletLibraryTests\StoreBaeltBilletLibraryTests.csproj", "{F90AF04D-7DC1-4535-A9CD-2911B4359BAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DD0F8006-1A7E-4ADC-8856-81797165059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD0F8006-1A7E-4ADC-8856-81797165059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD0F8006-1A7E-4ADC-8856-81797165059F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90AF04D-7DC1-4535-A9CD-2911B4359BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90AF04D-7DC1-4535-A9CD-2911B4359BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90AF04D-7DC1-4535-A9CD-2911B4359BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90AF04D-7DC1-4535-A9CD-2911B4359BAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.deps.json
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Users\theke\source\repos\storebaeltlibrary-Fearce\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
