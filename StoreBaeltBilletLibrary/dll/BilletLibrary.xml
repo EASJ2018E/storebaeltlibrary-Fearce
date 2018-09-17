@@ -7,6 +7,9 @@
         <member name="P:BilletLibrary.Bil.Dato">
             <inheritdoc />
         </member>
+        <member name="P:BilletLibrary.Bil.Brobizz">
+            <inheritdoc />
+        </member>
         <member name="M:BilletLibrary.Bil.Pris">
             <inheritdoc />
         </member>
@@ -47,6 +50,9 @@
             <returns>Køretøj som string</returns>
         </member>
         <member name="P:BilletLibrary.MC.Dato">
+            <inheritdoc />
+        </member>
+        <member name="P:BilletLibrary.MC.Brobizz">
             <inheritdoc />
         </member>
         <member name="M:BilletLibrary.MC.Pris">
